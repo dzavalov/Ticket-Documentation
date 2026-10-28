@@ -31,7 +31,7 @@
 Explain what in your write-up supports each one. Remove unused rows or this
 whole block if you aren't adding mappings. -->
 
-| Framework | Connection to my work |
+| Framework | Connection  to my work |
 | --- | --- |
 | DoD DCWF | [ID and the action or understanding it relates to] |
 | NICE Components v2.0.0 | [K/S ID and the action or understanding it relates to] |
