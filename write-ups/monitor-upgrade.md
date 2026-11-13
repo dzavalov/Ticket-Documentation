@@ -32,9 +32,7 @@ The instructor over seeing the preceding had also made some adjustments to the W
 
 ## Result
 
-[Monitor replacement and height adjustment completed; your final note records that the user was satisfied. Explain how you know the result and add one takeaway from your own experience.]
-
-The result was the original work space but new set of monitors, adjusted to the right height with care given for user satisfaction.
+The result was the original work space but new set of monitors, adjusted to the right height with care given for user satisfaction. After completing the replacement, I scheduled a follow up meeting to ensure that the user was fully satisfied with the service provided. A few key takeaways from this ticket would be to keep a users environment intact, to keep volume at an acceptable level and to create follow up meetings with the end user to ensure satisfaction.
 
 ## Skills in practice
 
