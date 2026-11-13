@@ -1,8 +1,6 @@
 # Dmitri | IT Support and Networking Portfolio
 
-I recently passed CompTIA Network+ and am building a portfolio of supervised support work and network-lab projects. These case studies focus on troubleshooting decisions, practical work, and verified outcomes.
-
-> **Working draft:** These entries are writing starters. I will confirm my contribution and complete each account in my own words before presenting it as finished work.
+I recently passed CompTIA Network+. I am building a portfolio of supervised support work and network-lab projects. These case studies focus on troubleshooting decisions, practical work, and verified outcomes.
 
 ## Selected work
 
