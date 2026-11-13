@@ -12,7 +12,6 @@ A cubicle with a standing desk in a quiet environment (noise was a concern here)
 
 ## My approach
 
-[Explain your monitor replacement, cabling, work-area care, and follow-up. Credit the instructor for the separate Windows display and Outlook adjustments.]
 The first step I took was to study the work area and to take notes of the users current setup, for example how they preferred the monitors to be angled, where everything on the desk was positioned so it can be returned to the proper location if it was moved for any reason, then onto documenting the monitor brand and device model, and lastly taking note of the routing path of the HDMI to DVI cable from the dock to the monitor.
 
 The second step I took was to unplug and remove the old HP Compaq LA2206x monitors and have them reattached to the old mounts that were provided by the manufacturer, in order to return them to storage. In this process I also put the new Dell UT419H monitors onto the arms of the users setup and secured both in place. During this process I noticed that the current cables were incompatible with the new monitors.
@@ -34,6 +33,8 @@ The instructor over seeing the preceding had also made some adjustments to the W
 ## Result
 
 [Monitor replacement and height adjustment completed; your final note records that the user was satisfied. Explain how you know the result and add one takeaway from your own experience.]
+
+The result was the original work space but new set of monitors, adjusted to the right height with care given for user satisfaction.
 
 ## Skills in practice
 
